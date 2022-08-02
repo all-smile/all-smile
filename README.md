@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Xiao Juntao.
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
@@ -38,7 +38,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile)](https://github.com/all-smile/github-readme-stats) -->
 
