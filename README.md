@@ -11,6 +11,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)
   ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
+  ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
   ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
   ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
   ![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)
