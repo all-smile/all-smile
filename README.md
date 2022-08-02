@@ -61,7 +61,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 
 - [掘金](https://juejin.cn/user/852876755212814/posts)
 - [CSDN](https://blog.csdn.net/heyYouU)
-- [知乎](https://www.zhihu.com/people/xiaojt_95)
+- [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
 - [简书](https://www.jianshu.com/u/a59c678b26df)
 - [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240)
 - [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多）
