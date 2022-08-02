@@ -46,41 +46,63 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)](https://github.com/all-smile/github-readme-stats)
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
 
-***
+### My Skill Set
+<table><tr><td valign="top" width="33%">
 
-### 我的名号😃
 
-行走互联网名号：**甜点cc**
 
-- 喜欢吃甜食🥰（俺不胖🏃‍♂️）
-- 后面加了`cc`主要目的是为了满足平台昵称唯一性的要求。我记得那段时间在准备一个考试，索性就用`cc`当后缀了😁。
+#### Frontend
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+</div>
 
-### 我的主页😉
+</td>
+<td valign="top" width="33%">
 
-下面看一下各大互联网知识平台的个人主页信息
+#### Backend
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+</div>
 
-- [掘金](https://juejin.cn/user/852876755212814/posts)
-- [CSDN](https://blog.csdn.net/heyYouU)
-- [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
-- [简书](https://www.jianshu.com/u/a59c678b26df)
-- [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240)
-- [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多）
-- [NPM](https://www.npmjs.com/~xiaojt)
-- [自己搭建的WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
-- [Docker Hub](https://hub.docker.com/u/xiaobluewhale)
-- [博客园](https://www.cnblogs.com/all-smile/)
+</td>
+<td valign="top" width="33%">
 
-### 我的代码托管平台😊
+#### DevOps
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+</div>
+</td>
+</tr>
+</table>
 
-- [Gitee](https://gitee.com/hey-u)
-- [Github](https://github.com/all-smile)
-
-### 我的网站、项目导航😜
-
-- [www.i-xiao.space](https://www.i-xiao.space/pc/compassNav)
-- [成绩管理系统](http://i-xiao.space:3000/)
-- [PC端网站](https://www.i-xiao.space/pc/main/home)
-- [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)
-- [论坛-Go](http://118.190.59.105:8088/)
-- [Jenkins](http://118.190.59.105:8082/)
-- [supervisor](https://www.i-xiao.space/supervisor/)
+<br/>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+        align="center"
+    />
+  </a>
+</div>
