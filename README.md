@@ -38,15 +38,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
 
-
-<!-- 统计访问次数 -->
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-<!-- 常用语言占比统计 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile)](https://github.com/all-smile/github-readme-stats) -->
 
-<!-- 常用语言占比统计（紧凑） -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)](https://github.com/all-smile/github-readme-stats)
-<!-- 仓库状态统计 -->
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
 
