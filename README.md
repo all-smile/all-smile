@@ -37,6 +37,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   ![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)
   ![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank You!🎉🎉
