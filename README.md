@@ -44,7 +44,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile)](https://github.com/all-smile/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)](https://github.com/all-smile/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
 
 ### My Skill Set
