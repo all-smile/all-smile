@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 ### Hi there 👋, I'm Xiao Juntao.
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
@@ -43,6 +45,18 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile)](https://github.com/all-smile/github-readme-stats) -->
+
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+</td>
+</tr>
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
